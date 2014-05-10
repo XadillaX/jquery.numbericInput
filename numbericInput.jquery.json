@@ -11,7 +11,14 @@
     "numberic",
     "input"
   ],
-  "author": "XadillaX",
+  "author": {
+      "name": "XadillaX",
+      "url": "http://xcoder.in/",
+      "email": "admin@xcoder.in"
+  },
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
   "licenses": [
     {
       "type": "GPLv2",
