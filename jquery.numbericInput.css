@@ -1,0 +1,23 @@
+.numberic-ipt-group-btn {
+    font-size: 12px;
+    height: 16px;
+    width: 16px;
+    line-height: 12px;
+    padding: 0;
+
+    border: 1px solid #333;
+    background: #e6e6e6;
+}
+
+.numberic-ipt-group-ipt {
+    width: 20px;
+    height: 16px;
+    font-size: 10px;
+    line-height: 16px;
+
+    text-align: center;
+    position: relative;
+    border:  1px solid #333;
+    border-left: none;
+    border-right: none;
+}
