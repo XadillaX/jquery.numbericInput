@@ -1,0 +1,25 @@
+{
+  "name": "numbericInput",
+  "title": "jQuery Numberic Input",
+  "version": "0.0.1",
+  "description": "A numberic input plugin for jquery. - and + buttons included.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/XadillaX/jquery.numbericInput.git"
+  },
+  "keywords": [
+    "numberic",
+    "input"
+  ],
+  "author": "XadillaX",
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "http://www.example.com/licenses/gpl.html"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/XadillaX/jquery.numbericInput/issues"
+  },
+  "homepage": "https://github.com/XadillaX/jquery.numbericInput"
+}
